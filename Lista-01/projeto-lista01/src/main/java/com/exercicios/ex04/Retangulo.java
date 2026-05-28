@@ -1,4 +1,4 @@
-package exercicios.ex04;
+package com.exercicios.ex04;
 
 public class Retangulo {
     private double base;

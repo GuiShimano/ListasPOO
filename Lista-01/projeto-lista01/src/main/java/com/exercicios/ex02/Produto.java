@@ -1,4 +1,4 @@
-package exercicios.ex02;
+package com.exercicios.ex02;
 
 public class Produto {
     private String nome;

@@ -4,8 +4,6 @@ import com.tutushimas.controller.JogoDaVelhaController;
 import com.tutushimas.model.Jogador;
 import com.tutushimas.model.Simbolo;
 import com.tutushimas.model.StatusPartida;
-import com.tutushimas.model.Tabuleiro;
-
 import java.util.Scanner;
 
 public class JogoDaVelhaView {

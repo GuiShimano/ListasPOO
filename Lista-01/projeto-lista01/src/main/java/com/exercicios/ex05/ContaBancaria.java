@@ -1,4 +1,4 @@
-package exercicios.ex05;
+package com.exercicios.ex05;
 
 public class ContaBancaria {
     private int numero;

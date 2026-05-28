@@ -1,10 +1,10 @@
-package exercicios;
+package com.exercicios;
 
-import exercicios.ex01.*;
-import exercicios.ex02.*;
-import exercicios.ex03.*;
-import exercicios.ex04.*;
-import exercicios.ex05.*;
+import com.exercicios.ex01.*;
+import com.exercicios.ex02.*;
+import com.exercicios.ex03.*;
+import com.exercicios.ex04.*;
+import com.exercicios.ex05.*;
 
 public class Main {
     public static void main(String[] args) {

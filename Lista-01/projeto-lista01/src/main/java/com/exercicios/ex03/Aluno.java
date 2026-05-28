@@ -1,4 +1,4 @@
-package exercicios.ex03;
+package com.exercicios.ex03;
 
 public class Aluno {
     private String nome;
